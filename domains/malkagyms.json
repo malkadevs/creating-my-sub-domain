@@ -1,0 +1,11 @@
+{
+  "domain": "malkagym.is-a.dev",
+  "owner": 
+"username" :"malkadevs",
+    "email": "abdimalikhassan093@gmail.com"
+  },
+  "record": {
+    "CNAME": "ghs.googlehosted.com"
+  },
+  "proxy": false
+}
